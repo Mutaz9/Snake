@@ -1,12 +1,10 @@
-package assignment10;
-
 import java.awt.event.KeyEvent;
 import java.util.LinkedList;
 import java.util.List;
 
 import edu.princeton.cs.introcs.StdDraw;
 
-public class SnakeGame {
+public class SnakeGame extends, Snake, Apples {
 
 	
 	public static void main(String[] args) {
