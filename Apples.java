@@ -1,5 +1,3 @@
-package assignment10;
-
 import edu.princeton.cs.introcs.StdDraw;
 
 public class Apples {
